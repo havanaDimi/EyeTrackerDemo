@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424687073320",
+    "firebase_url": "https://eyetrackerdemo-9ae29.firebaseio.com",
+    "project_id": "eyetrackerdemo-9ae29",
+    "storage_bucket": "eyetrackerdemo-9ae29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424687073320:android:b856ab4f697abe07181d1d",
+        "android_client_info": {
+          "package_name": "com.example.eyetrackerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424687073320-1hlvf11gm3v49ddijp7pom7gaq918b53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eyetrackerdemo",
+            "certificate_hash": "b8e8f4e23ea7b3151394bcb10b1428e4c0f80fd9"
+          }
+        },
+        {
+          "client_id": "424687073320-kkapj7v8036aocb22dq8vut9vm44lbsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-HruPRldvvjM3kQ6AnlJaEAxa0SoGX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424687073320-kkapj7v8036aocb22dq8vut9vm44lbsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
